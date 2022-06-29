@@ -1,4 +1,4 @@
-# Extensions Visual Studio Code
+# Extensions
 
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) <br>
 [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) <br>
